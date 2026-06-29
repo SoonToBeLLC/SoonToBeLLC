@@ -3,7 +3,6 @@
 </p>
 Hi, I'm Tyler Sheffield!
 
-
 AI Strategy & Business Innovation professional focused on building AI-powered software that solves real business problems.
 
 I'm the founder of **SoonToBe, LLC**, where I'm developing AI-first products across fintech, music technology, and business automation.
