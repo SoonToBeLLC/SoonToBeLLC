@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="SoonToBe, LLC Banner">
+</p>
 # Hi, I'm Tyler Sheffield 👋
 
 AI Strategy & Business Innovation professional focused on building AI-powered software that solves real business problems.
