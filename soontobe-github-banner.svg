@@ -1,0 +1,89 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SoonToBe LLC GitHub Profile Banner</title>
+  <desc id="desc">A coded SVG banner for Tyler Sheffield and SoonToBe LLC.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070B"/>
+      <stop offset="0.5" stop-color="#0A1220"/>
+      <stop offset="1" stop-color="#02040A"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title { font: 800 62px Segoe UI, Arial, sans-serif; letter-spacing: 8px; fill: #F4F7FB; }
+      .blue { fill: #268BFF; }
+      .subtitle { font: 500 17px Segoe UI, Arial, sans-serif; letter-spacing: 8px; fill: #CED8E3; }
+      .small { font: 600 13px Segoe UI, Arial, sans-serif; fill: #A9B8C8; }
+      .panelTitle { font: 800 16px Segoe UI, Arial, sans-serif; fill: #3D9BFF; letter-spacing: 1px; }
+      .panelText { font: 700 14px Segoe UI, Arial, sans-serif; fill: #EEF5FF; }
+      .mini { font: 700 15px Segoe UI, Arial, sans-serif; fill: #F4F7FB; }
+      .stroke { stroke: #5B7C99; stroke-width: 1.2; opacity: .55; }
+    </style>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <g opacity="0.13" font-family="Consolas, Monaco, monospace" font-size="12" fill="#8FB7E5">
+    <text x="410" y="34">import Claude from "@anthropic-ai/sdk";</text>
+    <text x="410" y="54">const strategy = await build({ vision, roadmap, systems });</text>
+    <text x="410" y="74">export const product = ship(aiWorkflow);</text>
+    <text x="850" y="34">type Stack = "Claude" | "Next.js" | "Supabase" | "Vercel";</text>
+    <text x="850" y="54">const mission = "strategy.code.automate.elevate";</text>
+  </g>
+  <g>
+    <rect x="36" y="40" width="300" height="240" rx="28" fill="#070B12" opacity=".82" stroke="#1B3E61"/>
+    <circle cx="186" cy="126" r="52" fill="#132235" stroke="#5B7C99" stroke-width="2"/>
+    <path d="M150 125c20-31 52-31 72 0" stroke="#EAF2FB" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+    <path d="M128 226c22-47 94-47 116 0" stroke="#EAF2FB" stroke-width="9" stroke-linecap="round" opacity=".9"/>
+    <text x="186" y="258" text-anchor="middle" class="small">TYLER SHEFFIELD</text>
+  </g>
+  <g transform="translate(604 42)" filter="url(#glow)">
+    <path d="M48 0L92 24L92 44L48 20L16 39L48 58L92 34L92 56L48 82L0 55L0 36L48 0Z" fill="#F5F7FA"/>
+    <path d="M62 26L94 8V28L62 48V26Z" fill="#147CFF"/>
+    <path d="M30 56L0 73V53L30 36V56Z" fill="#147CFF"/>
+  </g>
+  <text x="640" y="151" text-anchor="middle" class="title">SOONTOBE<tspan class="blue">, LLC</tspan></text>
+  <text x="640" y="188" text-anchor="middle" class="subtitle">BUILDING AI PRODUCTS THAT SOLVE REAL BUSINESS PROBLEMS</text>
+  <g transform="translate(390 214)">
+    <rect x="0" y="0" width="500" height="72" rx="18" fill="#07101C" opacity=".72" stroke="#163B60"/>
+    <g transform="translate(38 17)">
+      <circle cx="18" cy="18" r="17" stroke="#268BFF" stroke-width="2"/>
+      <path d="M18 8v20M8 18h20" stroke="#268BFF" stroke-width="2"/>
+      <text x="18" y="50" text-anchor="middle" class="small">AI STRATEGY</text>
+    </g>
+    <g transform="translate(168 17)">
+      <text x="0" y="26" font-size="32" fill="#268BFF" font-family="Consolas, monospace">&lt;/&gt;</text>
+      <text x="18" y="50" text-anchor="middle" class="small">DEVELOPMENT</text>
+    </g>
+    <g transform="translate(302 17)">
+      <circle cx="18" cy="18" r="15" stroke="#268BFF" stroke-width="2"/>
+      <path d="M18 3v7M18 26v7M3 18h7M26 18h7M8 8l5 5M28 8l-5 5M8 28l5-5M28 28l-5-5" stroke="#268BFF" stroke-width="2"/>
+      <text x="18" y="50" text-anchor="middle" class="small">AUTOMATION</text>
+    </g>
+    <g transform="translate(428 17)">
+      <path d="M2 31h8V19H2v12Zm14 0h8V10h-8v21Zm14 0h8V3h-8v28Z" fill="none" stroke="#268BFF" stroke-width="2"/>
+      <path d="M1 8l12 5l10-8l14 3" stroke="#268BFF" stroke-width="2" fill="none"/>
+      <text x="18" y="50" text-anchor="middle" class="small">INNOVATION</text>
+    </g>
+  </g>
+  <g transform="translate(980 52)">
+    <rect x="0" y="0" width="240" height="172" rx="22" fill="#07101C" opacity=".74" stroke="#163B60"/>
+    <text x="25" y="34" class="panelTitle">FOCUSED ON</text>
+    <text x="70" y="72" class="panelText">AI INNOVATION</text>
+    <text x="70" y="110" class="panelText">FINTECH</text>
+    <text x="70" y="148" class="panelText">MUSIC TECH</text>
+    <circle cx="36" cy="66" r="12" stroke="#EAF2FB" stroke-width="1.8"/>
+    <path d="M27 106h20M29 116l6-8l5 5l8-12" stroke="#EAF2FB" stroke-width="1.8" fill="none"/>
+    <path d="M33 143v-28l22 8v28" stroke="#EAF2FB" stroke-width="1.8" fill="none"/>
+  </g>
+  <g transform="translate(982 238)">
+    <rect x="0" y="0" width="236" height="54" rx="14" fill="#07101C" opacity=".72" stroke="#163B60"/>
+    <text x="22" y="22" class="mini">FOUNDER @</text>
+    <text x="22" y="42" class="mini">SOONTOBE, LLC</text>
+    <path d="M170 40h48" stroke="#268BFF" stroke-width="4"/>
+    <path d="M180 32h38" stroke="#5B7C99" stroke-width="3"/>
+  </g>
+  <text x="640" y="306" text-anchor="middle" class="subtitle" style="font-size:15px; letter-spacing:8px;">STRATEGY. CODE. AUTOMATE. <tspan fill="#268BFF">ELEVATE.</tspan></text>
+  <path d="M360 198H920" class="stroke"/>
+  <path d="M420 206H860" class="stroke"/>
+</svg>
