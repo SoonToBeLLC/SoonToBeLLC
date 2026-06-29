@@ -4,10 +4,12 @@ AI Strategy & Business Innovation professional focused on building AI-powered so
 
 I'm the founder of **SoonToBe, LLC**, where I'm developing AI-first products across fintech, music technology, and business automation.
 
+
 ## Why I Build
 
+
 I enjoy taking ambiguous ideas, turning them into working software, and using AI to solve practical business problems. I'm particularly interested in designing systems that combine thoughtful product strategy with reliable AI workflows.
----
+
 
 ## 🚀 Current Projects
 
