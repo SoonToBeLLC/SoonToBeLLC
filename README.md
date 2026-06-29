@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Tyler Sheffield 👋
 
-<!--
-**SoonToBeLLC/SoonToBeLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Strategy & Business Innovation professional focused on building AI-powered software that solves real business problems.
 
-Here are some ideas to get you started:
+I'm the founder of **SoonToBe, LLC**, where I'm developing AI-first products across fintech, music technology, and business automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Projects
+
+### 📈 TradePlot
+An AI-powered trading intelligence platform that helps traders analyze charts, improve execution, and journal their performance.
+
+**Tech**
+- Anthropic Claude
+- Cursor AI
+- Next.js
+- Supabase
+- Vercel
+- GitHub
+
+---
+
+### 🎵 EchoPulse
+An AI platform helping artists understand their music, learn to market, and grow their music through intelligent analytics and automation.
+
+---
+
+## 🛠 Tech Stack
+
+- Anthropic Claude
+- Cursor AI
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Vercel
+- GitHub
+- SQL
+
+---
+
+## 🌱 Currently Learning
+
+- Agentic AI
+- Claude API
+- AWS Certified AI Practitioner
+- AI System Design
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Production AI Applications
+
+---
+
+## 🎯 Interests
+
+- AI Strategy
+- Product Development
+- Business Innovation
+- FinTech
+- Music Technology
+- AI Automation
