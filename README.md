@@ -2,6 +2,7 @@
   <img src="./soontobe-minimal-professional-banner.svg" width="100%" alt="SoonToBe, LLC minimal professional GitHub banner">
 </p>
 Hi, I'm Tyler Sheffield!
+-
 
 AI Strategy & Business Innovation professional focused on building AI-powered software that solves real business problems.
 
