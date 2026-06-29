@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="./soontobe-minimal-professional-banner.svg" width="100%" alt="SoonToBe, LLC minimal professional GitHub banner">
+  <img src="./soontobe-minimal-professional-banner.svg" width="100%" alt="SoonToBe Banner">
 </p>
-Hi, I'm Tyler Sheffield!
--
 
+<div style="margin-top:40px;"></div>
+
+<h1>Hey, I'm Tyler Sheffield!</h1>
+
+<p>
 AI Strategy & Business Innovation professional focused on building AI-powered software that solves real business problems.
+</p>
 
 I'm the founder of **SoonToBe, LLC**, where I'm developing AI-first products across fintech, music technology, and business automation.
 
