@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./soontobe-github-banner.svg" width="100%" alt="SoonToBe, LLC Banner">
+  <img src="./soontobe-minimal-professional-banner.svg" width="100%" alt="SoonToBe, LLC minimal professional GitHub banner">
 </p>
 Hi, I'm Tyler Sheffield!
 
