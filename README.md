@@ -24,7 +24,8 @@ I enjoy taking ambiguous ideas, turning them into working software, and using AI
 ### 📈 TradePlot
 An AI-powered trading intelligence platform that helps traders analyze charts, improve execution, and journal their performance.
 
-**Tech**
+## 🛠 Tech Stack
+
 - Anthropic Claude
 - Cursor AI
 - Next.js
@@ -37,7 +38,6 @@ An AI-powered trading intelligence platform that helps traders analyze charts, i
 ### 🎵 EchoPulse
 An AI platform helping artists understand their music, learn to market, and grow their music through intelligent analytics and automation.
 
----
 
 ## 🛠 Tech Stack
 
